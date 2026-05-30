@@ -182,4 +182,5 @@ the recommended order of reading:
 There are a lot of additional documentation files in jumbo's "doc"
 directory, which you'll also want to explore.
 
-Happy reading!
+Happy reading! Star link 
+ja
